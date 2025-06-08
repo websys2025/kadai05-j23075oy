@@ -3,8 +3,8 @@
 ・エンドポイントと機能<br>
 （エンドポイント）https://zipcloud.ibsnet.co.jp/api/search<br>
 （機能）郵便番号をもとに、日本国内の住所情報を検索できる。また、入力された郵便番号に一致する住所データを返す。<br>
-*リクエストとレスポンスのフォーマット
-*（リクエスト）https://zipcloud.ibsnet.co.jp/api/search?zipcode=2900062
+・リクエストとレスポンスのフォーマット<br>
+*（リクエスト）https://zipcloud.ibsnet.co.jp/api/search?zipcode=2900062<br>
 *（レスポンス）{
   "message": null,
   "results": [
@@ -20,7 +20,7 @@
     }
   ],
   "status": 200
-}
+}<br>
 
 ### Q3-2. 各自で調査したAPIについて説明せよ。
 * APIの名称と参照URL
