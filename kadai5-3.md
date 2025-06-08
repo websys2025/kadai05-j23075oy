@@ -23,19 +23,19 @@
 }<br>
 
 ### Q3-2. 各自で調査したAPIについて説明せよ。
-* APIの名称と参照URL
-*（名称）Agify API
-*（参照URL）https://agify.io
-* エンドポイントと機能
-* （エンドポイント）https://api.agify.io
-* （機能）指定した名前に対して、世界中の統計データから推定される平均年齢を返す。
-* リクエストとレスポンスのフォーマット
-*（リクエスト）https://api.agify.io?name=Emily
-*（レスポンスのフォーマット）{
+・APIの名称と参照URL<br>
+（名称）Agify API<br>
+（参照URL）https://agify.io<br>
+・エンドポイントと機能<br>
+（エンドポイント）https://api.agify.io<br>
+（機能）指定した名前に対して、世界中の統計データから推定される平均年齢を返す。<br>
+・リクエストとレスポンスのフォーマット<br>
+（リクエスト）https://api.agify.io?name=Emily
+（レスポンスのフォーマット）{
   "name": "Yuto",
   "age": 20,
   "count": 482
-}
+}<br>
 
 
 ### Q3-3. 感想
