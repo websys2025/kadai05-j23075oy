@@ -1,7 +1,7 @@
 ## 外部APIの呼び出しのミニレポート
 ### Q3-1. 郵便番号APIについて説明せよ。
-*・エンドポイントと機能
-*　（エンドポイント）https://zipcloud.ibsnet.co.jp/api/search
+**・エンドポイントと機能
+**　（エンドポイント）https://zipcloud.ibsnet.co.jp/api/search
 *　（機能）郵便番号をもとに、日本国内の住所情報を検索できる。また、入力された郵便番号に一致する住所データを返す。
 *・リクエストとレスポンスのフォーマット
 *（リクエスト）https://zipcloud.ibsnet.co.jp/api/search?zipcode=2900062
